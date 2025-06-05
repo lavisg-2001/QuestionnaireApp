@@ -1,0 +1,20 @@
+# -------------- Back-end --------------
+/poll/target/
+/poll/.mvn/
+/poll/.idea/
+/poll/*.iml
+/poll/src/main/resources/
+/poll/.env/
+
+# -------------- Front-end --------------
+/poll-app-frontend/node_modules/
+/poll-app-frontend/build/
+/poll-app-frontend/.env
+/poll-app-frontend/.idea/
+/poll-app-frontend/*.iml
+
+# -------------- Common IDE/OS files --------------
+*.log
+*.swp
+.DS_Store
+Thumbs.db
